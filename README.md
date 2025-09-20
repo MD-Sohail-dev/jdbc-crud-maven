@@ -139,7 +139,8 @@ A good starting point for Java database applications or full-stack projects.
 ## Screenshots
 
 ### Screenshot 1: Menu
-![Screenshot 1](Screenshot (1).png)
+![Screenshot 1](screenshots/Screenshot%20(1).png)
 
 ### Screenshot 2: Users Display
-![Screenshot 2](Screenshot (2).png)
+![Screenshot 2](screenshots/Screenshot%20(2).png)
+
