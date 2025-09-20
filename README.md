@@ -49,6 +49,8 @@ The main dependency is the **MySQL JDBC Driver**:
 This dependency allows the Java program to connect to a MySQL database.
 Maven automatically downloads and manages this library.
 
+```
+
 ---
 
 Database Setup
